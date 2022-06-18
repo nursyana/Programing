@@ -7,22 +7,21 @@ Group Members:
 2. Nur Syazana binti Abdul Kadir - 2016730
 3. Nurul Zahidah binti Jamaludin - 2011130
 
-/* Description about implementing the Banker's Algorithm */
+/* Description of the Banker's Algorithm implementation */
 
-This program is written in C++ Language.
+This software is written in C++.
 
-This program is about implementing Banker's Algorithm in finding out whether or not a system is
-in a safe state and determining whether requests can be granted successfully. 
+This curriculum focuses on using the Banker's Algorithm to determine whether a system is safe and whether requests may be granted successfully.
 
-The number of processes has been initialized to 5.
-The number of resources has been initialized to 3.
+The number of processes has been set to 5.
+The amount of resources has been set to 3.
 
-First, you have to enter the available resources.
+You must first input the accessible resources.
 
-Second, you have to enter the maximum matrix.
+Second, fill in the maximum matrix.
 
-Third, you have to enter the allocation matrix.
+Third, fill up the allocation matrix.
 
-Next, if you have any additional request enter 1 = Yes or 0 = No.
+Next, enter 1 = Yes or 0 = No for any subsequent requests.
 
-Finally, after making a request, you have to enter the process number and its request.
+Finally, after submitting a request, enter the process number and the request.
