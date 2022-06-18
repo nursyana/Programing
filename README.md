@@ -1,10 +1,10 @@
-// CSCI 3300 OPERATING SYSTEM SECTION 2 SEMESTER 2, 2020/2021
-// PROGRAMMING GROUP PROJECT
+CSCI 3300 OPERATING SYSTEM SECTION 2 SEMESTER 2, 2020/2021
+PROGRAMMING GROUP PROJECT
 
-// Group Members:
-// 1. Alfin Najeehah binti Zahid - 2019618
-// 2. Nur Syazana binti Abdul Kadir - 2016730
-// 3. Nurul Zahidah binti Jamaludin - 2011130
+Group Members:
+1. Alfin Najeehah binti Zahid - 2019618
+2. Nur Syazana binti Abdul Kadir - 2016730
+3. Nurul Zahidah binti Jamaludin - 2011130
 
 /* Description about implementing the Banker's Algorithm */
 
