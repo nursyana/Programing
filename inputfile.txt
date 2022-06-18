@@ -1,0 +1,64 @@
+
+Enter the available resources:
+1 0 2
+
+Enter the maximum matrix:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+
+Enter the allocation matrix:
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+
+//sample input for question a
+1 1 0 2
+
+---------------------------------------------------------------
+
+Enter the available resources:
+3 3 0
+
+Enter the maximum matrix:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+
+Enter the allocation matrix:
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+
+//sample input for question b
+4 3 3 0
+
+----------------------------------------------------------------
+
+Enter the available resources:
+0 0 0
+
+Enter the maximum matrix:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+
+Enter the allocation matrix:
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+
+//sample input for question c
+0 0 0 0
