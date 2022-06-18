@@ -10,8 +10,10 @@ Group Members:
 #include <iostream>
 using namespace std;
 
-const int process = 5;// Number of processes
-const int resource = 3;// Number of resources 
+// Number of processes
+const int process = 5;
+// Number of resources 	
+const int resource = 3;
 
 int available[resource];// Current available resources
 int maximum[process][resource];// Maximum resources required by the process
