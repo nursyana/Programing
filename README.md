@@ -35,6 +35,7 @@ bool isLess(int a[], int b[], int len){
 }
 
 // Function to find the system is in a safe state or not
+
 bool isSafe(){
 	int work[resource];
     bool finish[process];
