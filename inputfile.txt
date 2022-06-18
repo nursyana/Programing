@@ -1,6 +1,6 @@
 
 Enter the available resources:
-1 0 2
+10 5 7
 
 Enter the maximum matrix:
 7 5 3
