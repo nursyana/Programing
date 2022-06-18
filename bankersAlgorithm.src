@@ -1,3 +1,10 @@
+// CSCI 3300 OPERATING SYSTEM | SECTION 02 | SEMESTER 2, 2022/2022
+// PROGRAMMING GROUP PROJECT
+
+// Alfin Najeehah binti Zahid - 2019618
+// Nur Syazana binti Abdul Kadir - 2016730
+// Nurul Zahidah binti Jamaludin - 2011130
+
 /* A Program that Implements the Banker's Algorithm */
 
 #include <iostream>
